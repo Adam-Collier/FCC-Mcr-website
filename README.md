@@ -9,7 +9,7 @@ A Webpack and React based project for the FCC Manchester website. The aim of thi
 - [Webpack Dev Server](https://webpack.github.io/docs/webpack-dev-server.html)
 - [sass-loader](https://github.com/webpack-contrib/sass-loader)
 - [css-loader](https://github.com/webpack-contrib/css-loader)
-- [file-loader] (https://github.com/webpack-contrib/file-loader)
+- [file-loader](https://github.com/webpack-contrib/file-loader)
 - [gh-pages](https://www.npmjs.com/package/gh-pages)
 - [style Loader](https://github.com/webpack-contrib/style-loader)
 - [postcss-loader](https://github.com/postcss/postcss-loader)
